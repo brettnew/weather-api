@@ -30,6 +30,8 @@ To install this repository into a new project each time, first
 * Copy and paste the entire contents of the cloned /javascript-template into your new folder (this should not include the .pairs file)
 * Move into your new folder and initialize git as normal
 * ``` $ npm install ``` to pull dependencies listed in package.json
+* ``` $ bower install ``` to pull dependencies listed in bower.json
+* ``` $ gulp serve ``` to build site and kickoff browser-sync
 * Congrats! You now have a new repo based on this template
 
 Some **DONT'S**

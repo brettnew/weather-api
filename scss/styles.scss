@@ -1,0 +1,14 @@
+$gray : #d3d3d3;
+$green : #00FF00;
+
+.container {
+  background: $gray;
+  border: 5px solid black;
+  padding: 40px 80px;
+  .button {
+    font-weight: bold;
+    text-align: center;
+    background: $gray;
+    color: $green;
+  }
+}
